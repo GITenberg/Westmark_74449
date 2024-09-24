@@ -1,0 +1,34 @@
+_repo: Westmark_74449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lienhard, Friedrich
+    aliases:
+    - Lienhard, Fritz
+    - Lienhard, Frédéric
+    - Lienhard, Frederic
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '50183'
+    url: http://www.gutenberg.org/2009/agents/50183
+    wikipedia: https://de.wikipedia.org/wiki/Friedrich_Lienhard
+description: ''
+gutenberg_issued: '2024-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74449'
+language: de
+pgterms:marc904: http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=oxfaleph012753307&indx=1&recIds=oxfaleph012753307
+pgterms:marc905: 20180925103328lienhard
+pgterms:marc906: '1919'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aStuttgart :$bTürmer-Verlag Greiner und Pfeiffer, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Westmark
+url: http://www.gutenberg.org/ebooks/74449

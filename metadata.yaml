@@ -1,5 +1,8 @@
 _repo: Westmark_74449
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74449-h/images/cover.jpg
 creator:
   author:
     agent_name: Lienhard, Friedrich
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50183
     wikipedia: https://de.wikipedia.org/wiki/Friedrich_Lienhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74449#Westmark
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
